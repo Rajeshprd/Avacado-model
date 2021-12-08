@@ -7,7 +7,7 @@ EDA-and-Machine-Learning-Avocado-Prices-Predictions
 ### Seaborn
 ### sklearn
 # **Objective**
-### mporting the dataset
+### Importing the dataset
 ### Cleaning data.
 ### performing EDA on the dataset.
 ### Feature Engineering (if required)
